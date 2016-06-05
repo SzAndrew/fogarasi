@@ -98,9 +98,10 @@ foreach ( $pathArray as $item ) {
 		</header>
 		<section>
 			<?php
-				if( isset($_GET["subpage"] ) )
+			/*további felsorolás*/
+				if( isset($args["subpage"] ) && in_array($args["subpage"], array('', 'home', 'services')) )
 				{
-					include($_GET["subpage"]);
+					include($args["subpage"] . '.php');
 				}
 				else
 				{

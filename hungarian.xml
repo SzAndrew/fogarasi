@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<fogarasi>
+	<header>
+		<link1>KEZD&#x150;LAP</link1>
+		<link2>BEMUTATKOZ&#xC1;S</link2>
+		<link3>SZOLG&#xC1;LTAT&#xC1;SAINK</link3>
+		<link4>AUT&#xD3;INK</link4>
+		<link5>HASZN&#xC1;LT AUT&#xD3;K</link5>
+		<link6>KAPCSOLAT</link6>
+	</header>
+	<home>
+		<title1>&#xDC;DV&#xD6;Z&#xD6;LJ&#xDC;K</title1>
+		<description1>a Fogarasi Auto Kft. honlapj&#xE1;n. Oldalunkon hasznos inform&#xE1;ci&#xF3;kat tal&#xE1;l, melyek megk&#xF6;nny&#xED;tik d&#xF6;nt&#xE9;seit g&#xE9;pj&#xE1;rm&#x171; v&#xE1;s&#xE1;rl&#xE1;s eset&#xE9;n, hitel&#xFC;gyint&#xE9;z&#xE9;sn&#xE9;l, k&#xF6;telez&#x151; biztos&#xED;t&#xE1;s k&#xF6;t&#xE9;s&#xE9;n&#xE9;l. Aut&#xF3; b&#xE9;rl&#xE9;s alkalm&#xE1;val pedig a megfelel&#x151; j&#xE1;rm&#x171; kiv&#xE1;laszt&#xE1;s&#xE1;n&#xE1;l. Vegye fel Vel&#xFC;nk a kapcsolatot az optim&#xE1;lis megold&#xE1;s megtal&#xE1;l&#xE1;s&#xE1;hoz.</description1>
+		<title2>RENT A CAR</title2>
+		<description2>Rent-a-car szolg&#xE1;ltat&#xE1;sunk az esetenk&#xE9;nt felmer&#xFC;l&#x151;, megn&#xF6;vekedett g&#xE9;pkocsi ig&#xE9;nyek kiel&#xE9;g&#xED;t&#xE9;s&#xE9;re ny&#xFA;jt gyors, rugalmas, k&#xE9;nyelmes, k&#xF6;lts&#xE9;ghat&#xE9;kony megold&#xE1;st r&#xF6;vidt&#xE1;vra.</description2>
+		<title3>MI&#xC9;RT VAGYUNK MI A LEGJOBBAK?</title3>
+		<description3>C&#xE9;g&#xFC;nk fel&#xE9;p&#xED;t&#xE9;se lehet&#x151;v&#xE9; teszi, hogy &#xFC;gyfeleinket egyedileg kezelj&#xFC;k a magas sz&#xED;nvonal megtart&#xE1;sa mellett.</description3>
+	</home>
+	<welcome>
+		<title>BEMUTATKOZUNK:</title>
+		<begin>A </begin>
+		<description> 100%-ban magyar tulajdonban l&#xE9;v&#x151; v&#xE1;llalkoz&#xE1;s. Siker&#xFC;nk els&#x151;sorban szolg&#xE1;ltat&#xE1;sunk magas min&#x151;s&#xE9;gi sz&#xED;nvonal&#xE1;ban, &#xE9;s &#xFC;gyf&#xE9;lk&#xF6;zpont&#xFA; hozz&#xE1;&#xE1;ll&#xE1;sunkban rejlik. Minden &#xFC;gyfeleinket kiemelt figyelemmel kezel&#xFC;nk &#xE9;s b&#xE9;rl&#x151;ink illetve v&#xE1;s&#xE1;rl&#xF3;ink egyedi ig&#xE9;nyeit is szem el&#x151;tt tartjuk a legapr&#xF3;bb r&#xE9;szletekig. Rugalmass&#xE1;gunk &#xE9;s vev&#x151;k&#xF6;zpontoss&#xE1;gunk mellett leend&#x151; &#xFC;gyfeleink r&#xE9;sz&#xE9;r&#x151;l nem elhanyagolhat&#xF3; szempont szolg&#xE1;ltat&#xE1;sunk kiv&#xE1;l&#xF3; &#xE1;r-&#xE9;rt&#xE9;k ar&#xE1;nya sem!
+		Haszn&#xE1;lt aut&#xF3;ink elad&#xE1;sa mellett hozott aut&#xF3; hitelk&#xF6;zvet&#xED;t&#xE9;s&#xE9;t&#x151;l kezdve megl&#xE9;v&#x151; aut&#xF3; vizsg&#xE1;ztat&#xE1;s&#xE1;ig mindenben tudunk seg&#xED;ts&#xE9;get ny&#xFA;jtani.</description>
+		<span>Fogarasi Aut&#xF3; Kft.</span>
+	</welcome>
+	<services>
+		<title>B&#xC9;RBEAD&#xC1;S</title>
+		<description>Eseti &#xE9;s tart&#xF3;s aut&#xF3;b&#xE9;rl&#xE9;s mag&#xE1;nszem&#xE9;lyek &#xE9;s C&#xE9;gek r&#xE9;sz&#xE9;re egyar&#xE1;nt felmer&#xFC;l&#x151; probl&#xE9;ma lehet, amire N&#xE1;lunk megold&#xE1;st tal&#xE1;lhat, hiszen b&#xE9;relhet&#x151; g&#xE9;pkocsi v&#xE1;laszt&#xE9;kunk als&#xF3;-&#xE9;s k&#xF6;z&#xE9;p kateg&#xF3;ri&#xE1;ban szem&#xE9;ly &#xE9;s kisteher aut&#xF3;ig megtal&#xE1;lhat&#xF3;ak. Lehet&#x151;s&#xE9;g van 9 szem&#xE9;lyes kisbuszok b&#xE9;rbev&#xE9;telre is.</description>
+		<title>BIZTOS&#xCD;T&#xC1;S</title>
+		<description>Haszn&#xE1;lt g&#xE9;pj&#xE1;rm&#x171;vet jellemz&#x151;en mag&#xE1;nforgalomban, vagy g&#xE9;pj&#xE1;rm&#x171; k&#xE9;r&#xE9;sk&#xE9;dben v&#xE1;s&#xE1;rolunk, de mindk&#xE9;t esetben sz&#xFC;ks&#xE9;g&#xFC;nk lesz egy k&#xF6;telez&#x151; felel&#x151;ss&#xE9;gbiztos&#xED;t&#xE1;sra. Nem k&#xF6;zismert, de az &#xE9;v k&#xF6;zbeni, v&#xE1;s&#xE1;rl&#xE1;s miatti biztos&#xED;t&#xE1;sk&#xF6;t&#xE9;sek sz&#xE1;ma b&#x151;ven meghaladja az &#xE9;v v&#xE9;gi biztos&#xED;t&#xE1;sv&#xE1;lt&#xE1;s miatti k&#xF6;t&#xE9;sek sz&#xE1;m&#xE1;t, &#xED;gy ez sokkal t&#xF6;bb embert &#xE9;rin.</description>
+		<title>L&#xCD;ZING</title>
+		<description>
+			<text0>A p&#xE9;nz&#xFC;gyi l&#xED;zing olyan &#xFC;zleti meg&#xE1;llapod&#xE1;s, mely szerint a l&#xED;zingbead&#xF3; megv&#xE1;s&#xE1;rolja a l&#xED;zingbevev&#x151; &#xE1;ltal kiv&#xE1;lasztott l&#xED;zingt&#xE1;rgyat az&#xE9;rt, hogy annak haszn&#xE1;lat&#xE1;t a l&#xED;zingbevev&#x151;nek d&#xED;jfizet&#xE9;s ellen&#xE9;ben &#xE1;tengedje.</text0>
+			<text1>A p&#xE9;nz&#xFC;gyi l&#xED;zing sor&#xE1;n a l&#xED;zingt&#xE1;rgy v&#xE9;gig a l&#xED;zingbevev&#x151; k&#xF6;nyveiben szerepel, azonban a tulajdonos a l&#xED;zingbead&#xF3;.</text1>
+		</description>
+		<title>&#xC9;RT&#xC9;KES&#xCD;T&#xC9;S</title>
+		<description>K&#xFC;lf&#xF6;ldr&#x151;l import&#xE1;lt haszn&#xE1;lt aut&#xF3;ink illetve besz&#xE1;m&#xED;tott g&#xE9;pj&#xE1;rm&#x171;veink biztons&#xE1;gos megold&#xE1;st ny&#xFA;jtanak v&#xE1;s&#xE1;rl&#xF3;ink r&#xE9;sz&#xE9;re mivel vezetett szervizk&#xF6;nyvvel rendelkeznek, leinform&#xE1;lhat&#xF3;ak, &#xE9;rt&#xE9;kes&#xED;t&#xE9;s&#xFC;k ig&#xE9;ny szerint sz&#xE1;ml&#xE1;val t&#xF6;rt&#xE9;nik.</description>
+	</services>
+	<footer>
+	FOGARASI AUTO 1131 Budapest, &#xDC;teg utca 17/A, Telefon: (06) 30 622 0016, (06) 20 397 2902 E-mail: info@fogarasiauto.hu
+	</footer>
+<home><description1>a Fogarasi Auto Kft. honlapj&#xE1;n. Oldalunkon hasznos inform&#xE1;ci&#xF3;kat tal&#xE1;l, melyek megk&#xF6;nny&#xED;tik d&#xF6;nt&#xE9;seit g&#xE9;pj&#xE1;rm&#x171; v&#xE1;s&#xE1;rl&#xE1;s eset&#xE9;n, hitel&#xFC;gyint&#xE9;z&#xE9;sn&#xE9;l, k&#xF6;telez&#x151; biztos&#xED;t&#xE1;s k&#xF6;t&#xE9;s&#xE9;n&#xE9;l. Aut&#xF3; b&#xE9;rl&#xE9;s alkalm&#xE1;val pedig a megfelel&#x151; j&#xE1;rm&#x171; kiv&#xE1;laszt&#xE1;s&#xE1;n&#xE1;l. Vegye fel Vel&#xFC;nk a kapcsolatot az optim&#xE1;lis megold&#xE1;s megtal&#xE1;l&#xE1;s&#xE1;hoz.</description1></home></fogarasi>

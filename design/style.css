@@ -1,0 +1,107 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+body
+{
+	font-family: 'Open Sans', sans-serif;
+	background-color: #32313B;
+	color: white;
+}
+
+.error
+{
+	margin: 20px auto;
+	width: 310px;
+	height: 20px;
+	font-size: 20px;
+	background-color: #FFFFFF;
+	padding: 30px;
+	text-align: center;
+	color: red;
+	box-shadow: 10px 10px 15px #000000;
+}
+
+h1
+{
+	text-align: center;
+	font-style: italic;
+	padding: 20px;
+	color: white;
+}
+
+h2
+{
+	text-align: center;
+	padding: 20px;
+	color: black;
+}
+
+.container
+{
+	width: 528px;
+    height: 320px;
+    background-color: #FFFFFF;
+    padding: 25px;
+	margin: 0 auto;
+	box-shadow: 10px 10px 15px #000000;
+}
+
+.text:first-child
+{
+	margin-top: 50px;
+}
+
+.text
+{
+	display: block;
+    width: 500px;
+    height: 34px;
+    padding: 20px 12px 20px 12px;
+	margin: 15px;
+    font-size: 14px;
+    color: #FFFFFF;
+    background-color: #32313B;
+    border: 2px solid #FFFFFF;
+}
+
+.text:last-child
+{
+	line-height: 1px;
+	font-size: 18px;
+}
+
+/* welcome */
+
+.edit
+{
+	display: block;
+	height: 20px;
+	width: 400px;
+	background-color: #32313B;
+	border: 0px;
+	margin: 10px auto;
+}
+
+textarea
+{
+	font-family: 'Open Sans', sans-serif;
+	padding: 10px;
+	display: block;	
+	resize: none;
+	width: 400px;
+	height: 150px;
+	margin: 0 auto;
+}
+
+.welcome_editing
+{
+	width: 520px;
+	height: 300px;
+	margin: 0 auto;
+	background-color: white;
+}
+
+/* end welcome */

@@ -1,0 +1,40 @@
+<fogarasi>
+	<header>
+		<link1>HOME</link1>
+		<link2>WELCOME</link2>
+		<link3>SERVICES</link3>
+		<link4>RENTAL</link4>
+		<link5>USED CARS</link5>
+		<link6>CONTACT</link6>
+	</header>
+	<home>
+		<title1>WELCOME</title1>
+		<description1>on the Fogarasi Auto kft. website. You can find necessary information that helps you decide on vheicles you may want to buy, credit administration and compulsory insurance. On the occasion of renting a car we can help you with that. Keep in touch with us so that we can help you find the optimal solution.</description1>
+		<title2>RENT A CAR</title2>
+		<description2>Our Rent a car service,with the increasing demand for cars thats fast,flexible ,convenient and costeffective solution for short term.</description2>
+		<title3>WHY ARE WE THE BEST?</title3>
+		<description3>Our company structure allows our clients to be treated individually while still maintainning high standards.</description3>
+	</home>
+	<welcome>
+		<title>ABOUT US:</title>
+		<begin>The </begin>
+		<description> is in the hands of a Hungarian owner. Our success is based on our high on standard services. All our clients are highly valued and treated with special care. Our flexibility and customer centric in addition to any of our prospective clients are not insignificant aspect of our service for an excellent price - performance ratio! from used cars to credit mediation of existing automotive testing, we can to help.</description>
+		<span>Fogarasi Auto Kft.</span>
+	</welcome>
+	<services>
+		<title>RENTAL</title>
+		<description>Occasional holder and car rental are both possible problem that may arise for companies and individuals so that we can find a solution for you, our rental cars range from small economy cars to midsize cars where small trucks can be found too. It is possible to rent minivans as well.</description>
+		<title>INSURANCE</title>
+		<description>We buy our used cars  typically from people, or buy them from a car dealership, but in both cases you will need a third-party liability insurance. Number of insurance bonds are not well known, but during the year, far exceeding the number of bonds buying insurance due to change of year-end, so a lot more people are affected.</description>
+		<title>LEASING</title>
+		<description>
+			<text0>The finance leasing is a business arrangement, according to which the lessor acquires leasing objects selected by the lessee in order to facilitate its use by the lessee included in,</text0>
+			<text1>but the owner is the lessor.</text1>
+		</description>
+		<title>SALE</title>
+		<description>Second hand cars are imported from abroad accounted for our vehicles and provide secure solutions for our customers by introducing service books so that they can be informed and we give invoice with every sales on demand.</description>
+	</services>
+	<footer>
+	FOGARASI AUTO 1131 Budapest, Üteg utca 17/A, Telefon: (06) 30 622 0016, (06) 20 397 2902 E-mail: info@fogarasiauto.hu
+	</footer>
+</fogarasi>

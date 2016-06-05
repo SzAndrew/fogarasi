@@ -99,7 +99,7 @@ foreach ( $pathArray as $item ) {
 		<section>
 			<?php
 			/*további felsorolás*/
-				if( isset($args["subpage"] ) && in_array($args["subpage"], array('', 'home', 'services')) )
+				if( isset($args["subpage"] ) && in_array($args["subpage"], array('home' , 'services' , 'rental' , 'usedcars' , 'contact', 'welcome')) )
 				{
 					include($args["subpage"] . '.php');
 				}

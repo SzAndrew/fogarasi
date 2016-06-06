@@ -281,45 +281,106 @@ section
 	
 	section .contact_left
 	{
-		width: 490px;
+		width: 40%;
 		height: 495px;
 		float: left;
 	}
 	
 	section .contact_right
 	{
-		width: 490px;
+		width: 60%;
 		height: 495px;
 		float: left;
 	}
 	
-	section .contact_left h2
+	section .contact_right .map
 	{
-		padding: 30px;
+		margin-top: 75px;
+		margin-left: 50px;
+		width: 500px;
+		height: 350px;
+		border: 1px solid #FFFFFF;
+		box-shadow: 10px 10px 5px #C0C0C0;
 	}
 	
 	section .contact_left .contact_title
 	{
-		padding-left: 30px;
-		width: 458px;
-		height: 85px;
-		border: 1px solid black;
+		width: 100%;
+		height: 150px;
+	}
+	
+	section .contact_left .contact_title h2
+	{
+		padding: 30px 0px 20px 40px;
+		color: #490000;
+	}
+	
+	section .contact_left .contact_title p
+	{
+		padding-left: 40px;
+		font-size: 14.5px;
+		font-weight: bold;
+	}
+	
+	section .contact_left .contact_title p span
+	{
+		font-weight: normal;
 	}
 	
 	section .contact_left .contact_fo
 	{
-		width: 458px;
+		width: 100%;
 		height: 100px;
-		padding-left: 30px;
-		border: 1px solid black;
+	}
+	
+	section .contact_left .contact_fo img
+	{
+		margin-left: 30px;
+		margin-right: 10px;
+		width: 80px;
+		height: 80px;
+		border: 2px solid #FFFFFF;
+		box-shadow: 5px 5px 5px 1px #C0C0C0;
+		float: left;
+	}
+	
+	section .contact_left .contact_fo p
+	{
+		font-weight: bold;
+		font-size: 12.5px;	
+	}
+	
+	section .contact_left .contact_fo p span
+	{
+		font-weight: normal;
 	}
 	
 	section .contact_left .contact_fr
 	{
-		width: 458px;
+		width: 100%;
 		height: 100px;
-		padding-left: 30px;
-		border: 1px solid black;
+	}
+	
+	section .contact_left .contact_fr img
+	{
+		margin-left: 30px;
+		margin-right: 10px;
+		width: 80px;
+		height: 80px;
+		border: 2px solid #FFFFFF;
+		box-shadow: 5px 5px 5px 1px #C0C0C0;
+		float: left;
+	}
+	
+	section .contact_left .contact_fr p
+	{
+		font-weight: bold;
+		font-size: 12.5px;	
+	}
+	
+	section .contact_left .contact_fr p span
+	{
+		font-weight: normal;
 	}
 	
 	

@@ -3,16 +3,13 @@ session_start();
 $path = $_GET['path'];
 $pathArray = array();
 if ( 0 < strlen($path) && 0 < count(explode('/', $path)) ) $pathArray = explode('/', $path);
-
 $args = array();
 foreach ( $pathArray as $item ) {
 	if ( 1 < count(explode(':', $item)) && $arg = explode(':', $item) ) 
 		$args[$arg[0]] = $arg[count($arg)-1];
 	else $args[] = $item;
 }
-
 //if ( isset($args['sorrend']) && $args['sorrend'] == 'novekvo' ) ...
-
 //die(var_dump($args));
 	if( isset($args["subpage"] ) )
 	{
@@ -63,6 +60,22 @@ foreach ( $pathArray as $item ) {
 		<meta charset="UTF-8">
 		<link rel="stylesheet" type="text/css" href="/design/main.css">
 		<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+		<script type="text/javascript" src="jquery/jquery-1.11.1.min.js"></script>
+		<script type="text/javascript" src="jquery/jquery.ui.effect.min.js"></script>
+		<script type="text/javascript" src="jquery/jquery.ui.effect-blind.min.js"></script>
+		<script type="text/javascript" src="jquery/jquery.ui.effect-bounce.min.js"></script>
+		<script type="text/javascript" src="jquery/jquery.ui.effect-clip.min.js"></script>
+		<script type="text/javascript" src="jquery/jquery.ui.effect-drop.min.js"></script>
+		<script type="text/javascript" src="jquery/jquery.ui.effect-explode.min.js"></script>
+		<script type="text/javascript" src="jquery/jquery.ui.effect-fade.min.js"></script>
+		<script type="text/javascript" src="jquery/jquery.ui.effect-fold.min.js"></script>
+		<script type="text/javascript" src="jquery/jquery.ui.effect-highlight.min.js"></script>
+		<script type="text/javascript" src="jquery/jquery.ui.effect-pulsate.min.js"></script>
+		<script type="text/javascript" src="jquery/jquery.ui.effect-scale.min.js"></script>
+		<script type="text/javascript" src="jquery/jquery.ui.effect-shake.min.js"></script>
+		<script type="text/javascript" src="jquery/jquery.ui.effect-slide.min.js"></script>
+		<script type="text/javascript" src="jquery/wwb10.min.js"></script>
+		<script type="text/javascript" src="js/javascript.js"></script>
 	</head>
 	<body>
 		<?php

@@ -24,17 +24,20 @@
 			</div>
 		</div>
 		<div class="rental_images">
-			<img src="images/kep1.jpg" class="small_images">
-			<img src="images/kep2.jpg" class="small_images">
-			<img src="images/kep3.jpg" class="small_images">
-			<img src="images/kep4.jpg" class="small_images">
+			<img src="images/kep1.jpg" class="small_images small_image1">
+			<img src="images/kep2.jpg" class="small_images small_image2">
+			<img src="images/kep3.jpg" class="small_images small_image3">
+			<img src="images/kep4.jpg" class="small_images small_image4">
 		</div>
 	</div>
 	<div class="rental_right">
-		<img src="images/kep1.jpg">
+		<img src="images/kep1.jpg" class="large_images" id="large_image1">
+		<img src="images/kep2.jpg" class="large_images" id="large_image2">
+		<img src="images/kep3.jpg" class="large_images" id="large_image3">
+		<img src="images/kep4.jpg" class="large_images" id="large_image4">
 	</div>
 </div>
-<div class="new_rental">
+<!--<div class="new_rental">
 	<div class="rental_left">
 		<div class="rental_top">
 			<div class="car_title"><h2>VOLKSWAGEN PASSAT</h2></div>
@@ -97,5 +100,5 @@
 	<div class="rental_right">
 		<img src="images/kep1.jpg">
 	</div>
-</div>
+</div>-->
 <div class="clean"></div>

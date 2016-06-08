@@ -405,6 +405,7 @@ section
 		box-shadow: 5px 5px 5px #C0C0C0;
 		float: right;
 		margin-top: 34px;
+		cursor: pointer;
 	}
 	
 	section .new_rental .rental_left .rental_images .small_images:first-child
@@ -419,8 +420,9 @@ section
 		height: 300px;
 	}
 	
-	section .new_rental .rental_right img
+	section .new_rental .rental_right .large_images
 	{
+		position: absolute;
 		width: 474px;
 		height: 280px;
 		border: 3px solid black;
@@ -547,6 +549,7 @@ section
 		box-shadow: 5px 5px 5px #C0C0C0;
 		float: right;
 		margin-top: 60px;
+		cursor: pointer;
 	}
 	
 	section .new_used .used_left .used_images .small_images:first-child
@@ -561,8 +564,9 @@ section
 		height: 300px;
 	}
 	
-	section .new_used .used_right img
+	section .new_used .used_right .large_images
 	{
+		position: absolute;
 		width: 474px;
 		height: 280px;
 	}

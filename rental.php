@@ -6,9 +6,7 @@
 	<div class="rental_left">
 		<div class="rental_top">
 			<div class="car_title"><h2>VOLKSWAGEN PASSAT</h2></div>
-			<div class="car_line">
-				<div class="line_central"></div>
-			</div>
+			<div class="car_line"></div>
 		</div>
 		<div class="description">
 			<p><span>ÉVJÁRAT:</span> 1998, <span>MOTOR TÉRFOGAT:</span> 1.595 cm<sup>3</sup>. <span>SAJÁT TÖMEG:</span> 1560 kg. <span>ÖSSZTÖMEG:</span> 2.110 kg. <span>CSOMAGTARTÓ:</span> 495 liter. <span>KLÍMA:</span> digitális két zónás, <span>TELJESÍTMÉNY:</span> 75 KW/102 LE, <span>EXTRA FELSZERELTSÉG:</span> elektromos ablak elől, hátul, ülésmagasság állítás, középső kartámasz, állítható kormánykerék, utas és vezető oldali légzsák, tempomat, centrálzár, riasztó, fedélzeti computer. <span>KÜLTÉR:</span> xenon fényszoró.</p>
@@ -40,9 +38,7 @@
 	<div class="rental_left">
 		<div class="rental_top">
 			<div class="car_title"><h2>VOLKSWAGEN PASSAT</h2></div>
-			<div class="car_line">
-				<div class="line_central"></div>
-			</div>
+			<div class="car_line"></div>
 		</div>
 		<div class="description">
 			<p><span>ÉVJÁRAT:</span> 1998, <span>MOTOR TÉRFOGAT:</span> 1.595 cm<sup>3</sup>. <span>SAJÁT TÖMEG:</span> 1560 kg. <span>ÖSSZTÖMEG:</span> 2.110 kg. <span>CSOMAGTARTÓ:</span> 495 liter. <span>KLÍMA:</span> digitális két zónás, <span>TELJESÍTMÉNY:</span> 75 KW/102 LE, <span>EXTRA FELSZERELTSÉG:</span> elektromos ablak elől, hátul, ülésmagasság állítás, középső kartámasz, állítható kormánykerék, utas és vezető oldali légzsák, tempomat, centrálzár, riasztó, fedélzeti computer. <span>KÜLTÉR:</span> xenon fényszoró.</p>
@@ -74,9 +70,7 @@
 	<div class="rental_left">
 		<div class="rental_top">
 			<div class="car_title"><h2>VOLKSWAGEN PASSAT</h2></div>
-			<div class="car_line">
-				<div class="line_central"></div>
-			</div>
+			<div class="car_line"></div>
 		</div>
 		<div class="description">
 			<p><span>ÉVJÁRAT:</span> 1998, <span>MOTOR TÉRFOGAT:</span> 1.595 cm<sup>3</sup>. <span>SAJÁT TÖMEG:</span> 1560 kg. <span>ÖSSZTÖMEG:</span> 2.110 kg. <span>CSOMAGTARTÓ:</span> 495 liter. <span>KLÍMA:</span> digitális két zónás, <span>TELJESÍTMÉNY:</span> 75 KW/102 LE, <span>EXTRA FELSZERELTSÉG:</span> elektromos ablak elől, hátul, ülésmagasság állítás, középső kartámasz, állítható kormánykerék, utas és vezető oldali légzsák, tempomat, centrálzár, riasztó, fedélzeti computer. <span>KÜLTÉR:</span> xenon fényszoró.</p>

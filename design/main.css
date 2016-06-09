@@ -170,6 +170,13 @@ section
 		float: left;
 	}
 	
+	section .welcome .welcomeleft img
+	{
+		width: 380px;
+		height: 230px;
+		margin-left: 10px;
+	}
+	
 	section .welcome .welcomeright
 	{
 		padding-left: 25px;

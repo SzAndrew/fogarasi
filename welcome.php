@@ -1,7 +1,7 @@
 <div class="welcomeimg"><img src="images/hasznalt.jpg"></div>
 <div class="welcome">
 	<div class="welcomeleft">
-	Kep
+		<img src="images/introcar.jpg">
 	</div>
 	<div class="welcomeright">
 		<h1><?php print $XML->welcome->title; ?></h1>
